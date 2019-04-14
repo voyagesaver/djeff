@@ -1784,7 +1784,7 @@ body {
 .cid-rnA8DCaQYS {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-color: #0f0f0f;
+  background-color: #000000;
 }
 .cid-rnA8DCaQYS .mbr-section-subtitle {
   color: #767676;
@@ -1826,15 +1826,36 @@ body {
     padding: 0 0.5rem;
   }
 }
-.cid-rnyKO2I7Ad {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/djef-le-boss-2000x855.png");
+.cid-rnDzHk6kh3 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+.cid-rnDzHk6kh3 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rnDzHk6kh3 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rnDzHk6kh3 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rnDzHk6kh3 .mbr-text {
+    text-align: center;
+  }
 }
 .cid-rnyMeUjMMk {
-  padding-top: 45px;
+  padding-top: 75px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/background-2000x852.png");
+  background-image: url("../../../assets/images/background-2000x814.png");
 }
 .cid-rnyMeUjMMk .carousel-control {
   background: #000;
