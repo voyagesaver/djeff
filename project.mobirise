@@ -39,7 +39,7 @@
     "uniqCompNum": 23,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/djeff-screaming-head-128x181.png",
+    "favicon": "@PROJECT_PATH@/assets/images/djeffshead-128x126.png",
     "noImageResize": ""
   },
   "pages": {
